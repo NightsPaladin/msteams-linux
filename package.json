@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A client for MS Teams that runs on linux (based on the work of Omid Hezaveh for using Flowdock on linux).",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/NightsPaladin/msteams-linux.git",
   "author": "Chris Gatewood <chris@nightsfury.com> ; Omid Hezaveh <omid.hezaveh@futurice.com>",
   "license": "MIT",
   "dependencies": {
