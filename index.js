@@ -16,7 +16,7 @@ const options = {
   height: 800,
   showMenuBar: false,
   fastQuit: false,
-  userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', // will infer a default for your current system
+  userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36', // will infer a default for your current system if left blank
   ignoreCertificate: false,
   insecure: false,
   honest: false,
